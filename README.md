@@ -1,3 +1,4 @@
+Name: Irma Smajlovic (Team 28)
 # Number Theory: Addition
 
 In this lab you've learned the basics of number theory as it relates to addition.
