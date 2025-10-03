@@ -1,8 +1,8 @@
 module light(
-    // Declare downstairs and upstairs input
-    // Declare stair light output
+    input DS,
+    input US,
+    
+    output SL 
 );
-
-    // Enter logic equation here
-
+    assign SL = US ^ DS;
 endmodule
