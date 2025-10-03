@@ -19,4 +19,4 @@ In this lab you've learned the basics of number theory as it relates to addition
 ### 2 - What is the importance of the XOR gate in an adder?
 
 ### 3 - What is the largest number a two bit adder can handle? What happens when you go over?
-
+The largest number a two bit adder can handle is 3 (11 in binary). A two bit adder can handle the sum of 3 and 3 which would give the output 6 (110), if you were to go over this number then this would lead to overflow. 
